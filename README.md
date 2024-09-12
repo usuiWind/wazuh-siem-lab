@@ -19,5 +19,4 @@ This project involves setting up a Wazuh-based Security Information and Event Ma
 3. **Rule Modification**: Modified Sysmon rule to detect Mimikatz.
 4. **Testing**: Ran Mimikatz to verify detection before and after file name change.
 
-## Sample Detection Log
 
